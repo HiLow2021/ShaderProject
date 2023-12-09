@@ -1,11 +1,13 @@
 # ShaderProject
 
+## 概要
+
+シェーダーアートの学習リポジトリ。
+
 ## 参考サイト
 
-- Shader Toy
+- [WebGL 開発支援サイト](https://wgld.org/)
 
-  https://www.shadertoy.com/
+- [Shader Toy](https://www.shadertoy.com/)
 
-- 距離関数
-
-  https://iquilezles.org/articles/distfunctions/
+- [距離関数](https://iquilezles.org/articles/distfunctions/)
