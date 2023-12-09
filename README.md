@@ -1,5 +1,11 @@
-#  ShaderProject
+# ShaderProject
 
-## Shape 距離関数 参考サイト
+## 参考サイト
 
-https://iquilezles.org/articles/distfunctions/
+- Shader Toy
+
+  https://www.shadertoy.com/
+
+- 距離関数
+
+  https://iquilezles.org/articles/distfunctions/
